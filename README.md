@@ -1,6 +1,3 @@
-Here is the complete README content formatted for GitHub, including all sections such as usage, installation, future directions, and notes. This is ready to be copied and pasted directly into your `README.md` file.
-
-```markdown
 # ChIP-Seq Data Analysis in Cancer
 
 ## Overview
